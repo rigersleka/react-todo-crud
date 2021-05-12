@@ -4,7 +4,7 @@ Project is based on Class Based Components
 
 ![Alt](https://raw.githubusercontent.com/rigersleka/react-todo-crud/develop/screenshot.jpg)
 
-# Live Demo
+## <a href="https://todo-class-based.netlify.app/" target="_blank">LIVE DEMO</a>
 
 ## Getting Started
 
