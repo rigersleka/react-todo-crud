@@ -1,6 +1,6 @@
 # ReactJS Todo List project
 Todo List to practice ReactJS
-Project is based on Class Based Components
+Project is based on # Class Based Components
 
 ![Alt](https://raw.githubusercontent.com/rigersleka/react-todo-crud/develop/screenshot.jpg)
 
